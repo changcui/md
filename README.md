@@ -1,2 +1,2 @@
-# mr
+# md
 Molecular Dynamics Simulation

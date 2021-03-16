@@ -8,3 +8,4 @@ Molecular Dynamics Simulation
 4. 实现 SP 和带能量和动量补偿的 SP
 5. 使用 AI 模拟补偿的过程
 6. 进程通讯的信息压缩，量化
+7. 统计收敛比
